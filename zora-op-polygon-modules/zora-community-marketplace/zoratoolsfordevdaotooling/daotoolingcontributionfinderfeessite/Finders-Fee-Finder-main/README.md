@@ -1,0 +1,1 @@
+We are using DAOtooling for coordination with a social focus around community collaboration for road incidents and alarms. We can incentivize the community collaborators using Finders Fee Finder project.
