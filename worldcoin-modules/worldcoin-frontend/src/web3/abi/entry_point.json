@@ -1,0 +1,74 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "contract IAccountFactory",
+        "name": "_accountFactory",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "inputs": [],
+    "name": "accountFactory",
+    "outputs": [
+      {
+        "internalType": "contract IAccountFactory",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "components": [
+          { "internalType": "address", "name": "sender", "type": "address" },
+          {
+            "components": [
+              { "internalType": "uint256", "name": "root", "type": "uint256" },
+              { "internalType": "uint256", "name": "group", "type": "uint256" },
+              { "internalType": "string", "name": "signal", "type": "string" },
+              {
+                "internalType": "uint256",
+                "name": "nullifierHash",
+                "type": "uint256"
+              },
+              { "internalType": "string", "name": "appID", "type": "string" },
+              {
+                "internalType": "string",
+                "name": "actionID",
+                "type": "string"
+              },
+              {
+                "internalType": "uint256[8]",
+                "name": "proof",
+                "type": "uint256[8]"
+              }
+            ],
+            "internalType": "struct WorldIDVerification",
+            "name": "worldIDVerification",
+            "type": "tuple"
+          },
+          { "internalType": "bytes", "name": "callData", "type": "bytes" },
+          {
+            "internalType": "uint256",
+            "name": "callGasLimit",
+            "type": "uint256"
+          }
+        ],
+        "internalType": "struct UserOperationVariant[]",
+        "name": "ops",
+        "type": "tuple[]"
+      }
+    ],
+    "name": "handleOps",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
