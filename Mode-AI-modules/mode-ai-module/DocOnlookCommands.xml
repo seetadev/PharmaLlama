@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-in" Name="DocOnlookCommandSet_en-in">
+    <AppName>Doc onlook</AppName>
+    <Example> Show my latest file</Example>
+    
+
+    <Command Name="showTheLatestFile">
+      <Example> Show my latest file </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">show [the] latest file</ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">show [my] latest file</ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">open [my] latest file</ListenFor>
+      <Feedback>Showing the latest file...</Feedback>
+      <Navigate />
+    </Command>
+    
+  </CommandSet>
+
+  <CommandSet xml:lang="en-us" Name="DocOnlookCommandSet_en-us">
+    <AppName>Doc onlook</AppName>
+    <Example> Show my latest file</Example>
+    
+
+    <Command Name="showTheLatestFile">
+      <Example> Show my latest file </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">show [the] latest file</ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">show [my] latest file</ListenFor>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase">open [my] latest file</ListenFor>
+      <Feedback>Showing the latest file...</Feedback>
+      <Navigate />
+    </Command>
+    
+  </CommandSet>
+
+</VoiceCommands>

@@ -1,0 +1,24 @@
+﻿<Application
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:doc_onlook"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+    x:Class="doc_onlook.App"
+    RequestedTheme="Light">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="AppAccentColorDark">#006378</Color> <!-- RGB(0,99,120) -->
+            <Color x:Key="AppAccentColorMedium">#00819c</Color> <!-- RGB(0,129,156) -->
+            <Color x:Key="AppAccentColorLight">#008fae</Color> <!-- RGB(0,143,174) -->
+            <Color x:Key="TextColorDark">#5a5a5a</Color>
+            <Color x:Key="TextColorLight">#838383</Color>
+            <Color x:Key="TextColorWhite">#FFFFFF</Color>
+            <Color x:Key="PanelBackgroundLight">#C7C7C7</Color>
+            <Color x:Key="PanelBackgroundExtraLight">#f7f7f7</Color>  <!-- RGB(247,247,247) -->
+            <Color x:Key="PanelBackgroundDark">#555555</Color>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+
+
+    
