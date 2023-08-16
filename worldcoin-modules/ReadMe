@@ -1,0 +1,6 @@
+Worldcoin: We are utilizing Worldcoin on-chain and on-cloud apis for DAO tooling and NFT transaction management. We are sending NFTs and facilitate peer to peer payments for service, repair and procurement/replenishment of pharma assets.
+Decentralized NFT-based voting system using Worldcoin for contract work for Pharma service & Fleet maintenance providers and companies and Ministry of Health. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work. Votes are uploaded to IPFS with the most recent vote linking to one before.
+
+Please visit the DAO set-up and Worldcoin based DAO workflows for pharma llama at https://drive.google.com/drive/u/4/folders/1FAY_As4g-YzuKyAqH-IiebWLtTIUrkTz
+
+Implementation of Modules using Worldcoin: https://github.com/seetadev/PharmaLlama/tree/main/worldcoin-modules
