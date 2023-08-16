@@ -1,0 +1,8 @@
+Optimism: Optimism Public Goods NFT storefront and marketplace for NFTs representing NFC tags of medical public goods and pharma assets provided by government agencies (example GeM portal). This enables on-demand availability of spare parts and prevents counterfeiting of expensive, repairable spare parts at functional locations. Further, it enables optimal inventory management and allocation at all repair sites.
+Please visit https://drive.google.com/drive/u/4/folders/1zparCtuoGOi-fb8LDxJ_-lmxiQvMNoB3 (demo_screen_capture.mov)
+
+Optimism Public Goods Module: This is especially useful for fleet management vehicles managed by the government for public goods delivery (Example: GeM portal goods in India) where co-incentives can be provided to contract organizations for good performance in pollution checks, green fuel adoption (switching away from diesel fuel to CNG). The workflow is as follows:
+
+Fleet role creation procedure; Fleet vehicles identification with NFC tags; Create credits of ratings earned via pollution checks, green fuel assets; Issue green credits for fleet vehicles via pollution checks by Transport department like Pollution check control; List green credits per fleet vehicle; Handle multiple vehicles.
+
+Please visit OP Modules at https://github.com/seetadev/PharmaLlama/tree/main/pharma-llama-OP-analytics-public-goods
