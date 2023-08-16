@@ -1,5 +1,10 @@
 # Pharma Llama Covalent Dashboard
 
+Covalent: We are using Covalent to see all NFTs for NFC tags of Pharma Fleets across different networks. Further, we have the following Covalent end-points APIs: Get Log Events by Contract Address: to get log events like sold/listed nft for NFC tags/NFC Tags of Fleets on marketplace. Get Log Events by Incident Types: to get log data for specific incident event along with its metadata Get NFT External Metadata: To get metadata for NFT like attribute and snapshot images. Get Historical Token Prices: To get price of token for currency that accept NFT/item on marketplace.
+Please visit https://github.com/seetadev/PharmaLlama/tree/main/pharma-llama-OP-analytics-public-goods/Covalent-pharma-llama-OP-dashboard-public-goods/Covalent-Pharma-Llama-API-Dashboard
+
+Demo video at https://drive.google.com/drive/u/4/folders/1zparCtuoGOi-fb8LDxJ_-lmxiQvMNoB3 (demo screen capture.mov)
+
 Covalent Dashboard is a Defi and DAO platform that enables users to keep track of all the details of their DeFi investments, transactions, and assets across all multiple chains and also displays DAO data using a data visualization chart.
 
 # Getting Started with Pharma Llama Covalent Dashboard
