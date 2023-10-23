@@ -30,6 +30,19 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 
 # Blockchain Eco-system
 
+
+# Optimism Public Goods 
+
+Optimism Public Goods NFT storefront and marketplace for NFTs representing NFC tags of medical public goods and pharma assets provided by government agencies (example GeM portal). This enables on-demand availability of spare parts and prevents counterfeiting of expensive, repairable spare parts at functional locations. Further, it enables optimal inventory management and allocation at all repair sites.
+
+Please visit https://drive.google.com/drive/u/4/folders/1zparCtuoGOi-fb8LDxJ_-lmxiQvMNoB3 (demo_screen_capture.mov)
+
+Optimism Public Goods Module: This is especially useful for fleet management vehicles managed by the government for public goods delivery (Example: GeM portal goods in India) where co-incentives can be provided to contract organizations for good performance in pollution checks, green fuel adoption (switching away from diesel fuel to CNG). The workflow is as follows:
+
+Fleet role creation procedure; Fleet vehicles identification with NFC tags; Create credits of ratings earned via pollution checks, green fuel assets; Issue green credits for fleet vehicles via pollution checks by Transport department like Pollution check control; List green credits per fleet vehicle; Handle multiple vehicles.
+
+Please visit OP Modules at https://github.com/seetadev/PharmaLlama/tree/main/pharma-llama-OP-analytics-public-goods
+
 1. Base: Account Abstraction plugins using Base enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 Fleet role creation procedure; Fleet vehicles identification with NFC tags; Create credits of ratings earned via pollution checks, green fuel assets; Issue green credits for fleet vehicles via pollution checks by Transport department like Pollution check control; List green credits per fleet vehicle; Handle multiple vehicles.
 
